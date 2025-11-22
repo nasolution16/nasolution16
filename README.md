@@ -83,9 +83,5 @@ I'm currently a **Senior Full Stack & AI Engineer** at **Azumo**, where I lead t
 - **Cloud**: AWS (EC2, Lambda, S3, RDS), Google Cloud, Azure
 - **Tools**: Docker, Git, GitHub Actions, Terraform, CI/CD, Kubernetes
 
-## 📈 Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nasolution16&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
-
 ## 📫 How to Reach Me
 Feel free to reach out via email at [nasolution16@gmail.com](mailto:nasolution16@gmail.com).
