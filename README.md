@@ -1,6 +1,6 @@
 # Senior Software Engineer
 
-Welcome to my GitHub! AI-driven engineer with 10+ years of experience in designing intelligent automation systems, workflow agents, and LLM-powered pipelines. I specialize in full-stack development and AI technologies, including LangChain, Python, Node.js, and cloud infrastructure, delivering scalable solutions that optimize business processes.
+Welcome to my GitHub! AI-driven engineer with 9+ years of experience in designing intelligent automation systems, workflow agents, and LLM-powered pipelines. I specialize in full-stack development and AI technologies, including LangChain, Python, Node.js, and cloud infrastructure, delivering scalable solutions that optimize business processes.
 
 ## 🚀 About Me
 I have a passion for automating complex workflows, designing AI agents, and building innovative systems that reduce manual efforts and deliver measurable outcomes. Throughout my career, I've helped organizations operationalize AI-driven solutions by leveraging LLM APIs, low-code frameworks, and cloud infrastructure.
