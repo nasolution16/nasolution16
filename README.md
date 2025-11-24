@@ -63,22 +63,5 @@ I have a strong foundation in backend development, system integration, and data 
   - **CI/CD Pipelines**: GitLab CI, Jenkins, CircleCI, Travis CI, GitHub Actions
   - **Serverless**: AWS Lambda, Google Cloud Functions, Azure Functions
 
-### Some of the technologies I use:
-- Python
-- Node.js
-- AWS (Lambda, S3, EC2)
-- LangChain
-- LLM APIs
-- SQL, Postgres
-- Docker
-- CI/CD Pipelines
-
-## 🔧 Tools & Technologies
-- **Languages**: Python, Node.js, TypeScript, JavaScript
-- **Frameworks**: LangChain, Express, Flask, React, Django, NestJS, FastAPI
-- **Databases**: PostgreSQL, MySQL, MongoDB, Redis
-- **Cloud**: AWS (EC2, Lambda, S3, RDS), Google Cloud, Azure
-- **Tools**: Docker, Git, GitHub Actions, Terraform, CI/CD, Kubernetes
-
 ## 📫 How to Reach Me
 Feel free to reach out via email at [nasolution16@gmail.com](mailto:nasolution16@gmail.com).
