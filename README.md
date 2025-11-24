@@ -63,9 +63,6 @@ I have a strong foundation in backend development, system integration, and data 
   - **CI/CD Pipelines**: GitLab CI, Jenkins, CircleCI, Travis CI, GitHub Actions
   - **Serverless**: AWS Lambda, Google Cloud Functions, Azure Functions
 
-## 💼 Current Work
-I'm currently a **Senior Full Stack & AI Engineer** at **Azumo**, where I lead the design and deployment of AI-driven workflow automation systems. I'm responsible for creating production-ready agents that automate tasks across various business processes, integrating with internal and external APIs, and ensuring continuous improvement through feedback loops.
-
 ### Some of the technologies I use:
 - Python
 - Node.js
